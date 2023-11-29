@@ -1,3 +1,5 @@
 # web-repo
-This is to get used to using git 
-author-Uditangshu chakraborty
+This is to get used to using git .
+<br>
+Author-Uditangshu chakraborty
+<br>
